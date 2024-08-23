@@ -104,3 +104,8 @@
 - Exemplo:
 
     {# This is a comment #}
+
+## Referências
+
+- [Primer on Jinja Templating](https://realpython.com/primer-on-jinja-templating/)
+- [Jinja](https://jinja.palletsprojects.com/en/3.1.x/)
